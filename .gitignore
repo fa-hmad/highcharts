@@ -32,6 +32,8 @@ exporting-server/deploy export server to amazon.txt
 
 export-error.log
 
+/node_modules/
+
 export-access.log
 
 */.ebextensions/
