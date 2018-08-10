@@ -2,7 +2,7 @@
   "name": "highcharts",
   "version": "3.0.7",
   "description": "JavaScript charting framework",
-  "main": "lib/highcharts",
+  "main": "js/highcharts.src.js",
   "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
   "repository": {
     "type": "git",
